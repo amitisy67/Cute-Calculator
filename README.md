@@ -1,11 +1,11 @@
-# Cute-Calculator
-A simple but feature-rich command-line calculator built with Python 🐍🎀  This project started as a basic calculator and gradually grew into a more complete application with multiple mathematical operations, calculation history, JSON storage, and the ability to clear saved history.  💕 Simple code. Useful features. A little personality.
-##🌸 About the Project
+## 🌸 About the Project
 
+Cute Calculator is a Python command-line calculator created as a practice project to improve my programming skills. It started as a simple calculator and gradually grew into a more complete application with multiple mathematical operations, calculation history, and JSON-based data storage.
 
-A simple but feature-rich command-line calculator built with Python 🐍✨
+The project helped me practice working with functions, loops, lists, file handling, JSON, and Python's `math` module while also giving the program a little personality through its cute CLI design. 🎀🐍
 
-This project started as a basic calculator and gradually grew into a more complete application with multiple mathematical operations, calculation history, JSON data storage, and the ability to clear saved history.
+It may be a small project, but it represents my process of taking a basic idea and gradually turning it into something more functional and personal.
+
 
 > 🌸 **Simple code, useful features, and a little personality.**
 
