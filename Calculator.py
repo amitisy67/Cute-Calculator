@@ -82,45 +82,7 @@ def times():
     expression = " × ".join(map(str, numbers))
     save_history(f"{expression} = {total}")
     return total
-def division():
-    total = int(input("🌸 give me first number: "))
-    numbers.append(total)
-
-    while True:
-        num = input("🌸 give me a number: ")
-
-        if num == 'done':
-            break
-
-        numbers.append(int(num))
-
-    for num in numbers[1:]:
-        total = total / num
-
-    expression = " ÷ ".join(map(str, numbers))
-    save_history(f"{expression} = {total}")
-
-    return total
-     
-def floor_division():
-    total = int(input("🌸 give me first number: "))
-    numbers.append(total)
-
-    while True:
-        num = input("🌸 give me a number: ")
-
-        if num == 'done':
-            break
-
-        numbers.append(int(num))
-
-    for num in numbers[1:]:
-        total = total // num
-
-    expression = " // ".join(map(str, numbers))
-    save_history(f"{expression} = {total}")
-
-    return total
+Handle division by
 def clear_history():
     with open("history.json", "w") as file:
         json.dump([], file)
