@@ -81,7 +81,7 @@ A colorful command-line interface with emojis makes the calculator a little more
 * JSON data storage
 * Exception handling
 * Working with the `math` module
-* 🎀 Testing my GitHub YOLO achievement!
+* 🎀 Testing my GitHub YOLO achievement
 
 ---
 
